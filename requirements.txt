@@ -1,3 +1,2 @@
-numpy
-jupyterlab
-microfilm==0.1.0
+jupyter-book
+pipreqs
