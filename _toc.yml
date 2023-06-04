@@ -1,4 +1,4 @@
 format: jb-book
 root: README
 chapters:
-- file: Demo_notebook
+- file: PythonTools
