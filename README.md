@@ -10,7 +10,7 @@ This is a companion repository containing example files for a course on Python t
 
 - [```environment.yml```](environment.yml) is an example file that can be used to create a conda/mamba environment using:
       
-      mamba env create -f environment.yml
+      conda env create -f environment.yml
       
 - [```requirements.txt```](requirements.txt) is an example file that can be used to install a series of PyPi packages using:
       
